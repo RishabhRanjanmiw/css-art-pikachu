@@ -1,28 +1,41 @@
-# ⚡ CSS Art Pikachu
+#  CSS Art – From Pikachu to Among Us Crewmate
 
-This project is a pure **HTML & CSS artwork** of Pikachu, built as part of the **CSS Art Festival** challenge.  
+This project is a pure **HTML & CSS artwork**, originally started with Pikachu, later improved to a more **realistic Among Us Crewmate** due to submission feedback in the **CSS Art Festival Challenge (800 pts)**.
+
 No images, SVGs, or JavaScript — only HTML elements and CSS magic!
 
-![Pikachu Preview](screenshot.png) 
 
-## 🎨 Features
+##  Change Log
 
-- Pure HTML & CSS — No images or SVGs used
-- Black-tipped ears, red cheeks, and shiny eyes
-- Aesthetic glowing background
-- Responsive and clean layout
-- Designed for **CSS Art Challenge (800 pts)**
+| Version | Character    | Status      | Notes                             |
+|---------|--------------|-------------|-----------------------------------|
+| v1      | Pikachu      | ❌ Rejected | Lacked realism                    |
+| v2      | Among Us     | ✅ Accepted | Recreated with more accuracy      |
 
-## 📂 Tech Stack
+
+##  Final Project – Among Us Crewmate
+
+- **Realistic crewmate** with visor & backpack
+-  Pure HTML + CSS (no image assets)
+-  Gradients and shadows for depth
+- Fully responsive and centered layout
+
+[Among Us Preview](screenshot_amongus.png)
+
+ [Live Demo](https://github.com/RishabhRanjanmiw/css-art-pikachu)
+
+
+## Tech Stack
 
 - HTML5
 - CSS3 (Flexbox, Gradients, Border Radius, Positioning)
 
-## 🚀 Live Demo
+## Original Pikachu Art (Archived)
 
-🔗 [View it on GitHub Pages]https://github.com/RishabhRanjanmiw/css-art-pikachu  
+While the Pikachu design was visually fun, it didn't pass challenge standards for realism:
+
+![Old Pikachu](screenshot_pikachu.png)
 
 
-## 📷 Screenshot
-Screenshot.png
+> Built for the CSS Art Challenge — 100% hand-coded for fun & creative flexing 
 
